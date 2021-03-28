@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wilrobo/static/css/main.61b0c833.chunk.css",
+    "main.js": "/wilrobo/static/js/main.6ae30196.chunk.js",
+    "main.js.map": "/wilrobo/static/js/main.6ae30196.chunk.js.map",
+    "runtime-main.js": "/wilrobo/static/js/runtime-main.cfa3390c.js",
+    "runtime-main.js.map": "/wilrobo/static/js/runtime-main.cfa3390c.js.map",
+    "static/css/2.fe359a49.chunk.css": "/wilrobo/static/css/2.fe359a49.chunk.css",
+    "static/js/2.23ca4a07.chunk.js": "/wilrobo/static/js/2.23ca4a07.chunk.js",
+    "static/js/2.23ca4a07.chunk.js.map": "/wilrobo/static/js/2.23ca4a07.chunk.js.map",
+    "static/js/3.a1796986.chunk.js": "/wilrobo/static/js/3.a1796986.chunk.js",
+    "static/js/3.a1796986.chunk.js.map": "/wilrobo/static/js/3.a1796986.chunk.js.map",
+    "index.html": "/wilrobo/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/wilrobo/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.61b0c833.chunk.css.map": "/wilrobo/static/css/main.61b0c833.chunk.css.map",
+    "static/js/2.23ca4a07.chunk.js.LICENSE.txt": "/wilrobo/static/js/2.23ca4a07.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wilrobo/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfa3390c.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.23ca4a07.chunk.js",
+    "static/css/main.61b0c833.chunk.css",
+    "static/js/main.6ae30196.chunk.js"
+  ]
+}
